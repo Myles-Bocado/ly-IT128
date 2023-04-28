@@ -1,0 +1,20 @@
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\bin\Debug\LyBlogDB.dacpac
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\bin\Debug\LyBlogDB.dll
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\bin\Debug\LyBlogDB.pdb
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\obj\Debug\LyBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\obj\Debug\LyBlogDB.dll
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\obj\Debug\LyBlogDB.pdb
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\obj\Debug\Model.xml
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\obj\Debug\refactor.xml
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\obj\Debug\postdeploy.sql
+C:\Users\WIN10\source\repos\LyLE2\LyBlogDB\obj\Debug\predeploy.sql
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\bin\Debug\LyBlogDB.dacpac
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\bin\Debug\LyBlogDB.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\bin\Debug\LyBlogDB.pdb
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\obj\Debug\LyBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\obj\Debug\LyBlogDB.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\obj\Debug\LyBlogDB.pdb
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\obj\Debug\Model.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\obj\Debug\refactor.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\obj\Debug\postdeploy.sql
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\LyBlogDB\obj\Debug\predeploy.sql

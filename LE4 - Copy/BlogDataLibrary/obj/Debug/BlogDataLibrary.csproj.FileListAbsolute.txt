@@ -1,0 +1,506 @@
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Dapper.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Buffers.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Memory.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Dapper.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Buffers.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Memory.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CopyComplete
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\obj\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\source\repos\LyLE2\BlogDataLibrary\obj\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Dapper.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Buffers.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Memory.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Dapper.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Buffers.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Memory.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CopyComplete
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\source\repos\LyLE2 - Copy - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Dapper.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Buffers.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Dapper.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Buffers.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CopyComplete
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll.config
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll.config
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Dapper.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Buffers.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Dapper.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Buffers.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CopyComplete
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Core.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Identity.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.Data.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Permissions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Json.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Core.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Identity.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.Data.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Permissions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Json.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\LE4\BlogDataLibrary\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Core.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Identity.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.Data.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.AccessControl.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Permissions.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Json.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Core.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Azure.Identity.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Memory.Data.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.AccessControl.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Permissions.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Json.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.CodeDom.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Data.Odbc.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Data.OleDb.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Drawing.Common.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IO.Packaging.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IO.Ports.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Web.Services.Description.dll
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.CodeDom.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Data.Odbc.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Data.OleDb.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Drawing.Common.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IO.Packaging.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.IO.Ports.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\WIN10\source\repos\LE4\BlogDataLibrary\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll.config
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Azure.Core.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Azure.Identity.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Dapper.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Buffers.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.CodeDom.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Data.Odbc.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Data.OleDb.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Drawing.Common.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IO.Packaging.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IO.Ports.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Memory.Data.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Memory.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Permissions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Text.Json.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Web.Services.Description.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Azure.Core.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Azure.Identity.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Dapper.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Buffers.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.CodeDom.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Data.Odbc.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Data.OleDb.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Drawing.Common.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IO.Packaging.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.IO.Ports.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Memory.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Memory.Data.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Permissions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Text.Json.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CopyComplete
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4\BlogDataLibrary\obj\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll.config
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\BlogDataLibrary.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Azure.Core.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Azure.Identity.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Dapper.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Buffers.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.CodeDom.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Data.Odbc.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Data.OleDb.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Drawing.Common.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IO.Packaging.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IO.Pipes.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IO.Ports.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Memory.Data.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Memory.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Permissions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Syndication.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Text.Json.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Web.Services.Description.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Azure.Core.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Azure.Identity.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Dapper.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Buffers.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.CodeDom.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Data.Odbc.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Data.OleDb.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Drawing.Common.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IO.Packaging.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.IO.Ports.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Memory.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Memory.Data.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Permissions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Text.Json.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\bin\Debug\System.Web.Services.Description.pdb
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.csproj.CopyComplete
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.dll
+C:\Users\WIN10\OneDrive - Mapúa University\Desktop\repos\New folder\LE4 - Copy\BlogDataLibrary\obj\Debug\BlogDataLibrary.pdb

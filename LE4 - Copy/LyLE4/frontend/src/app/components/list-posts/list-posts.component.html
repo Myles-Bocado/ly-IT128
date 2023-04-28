@@ -1,0 +1,21 @@
+
+
+<div class="post-list-container">
+    <div class="post-list-wrapper">
+      <div class="post-list" *ngFor="let post of posts">
+        <div class="post-item">
+          <a href="/posts/{{ post.id }}" class="post-link">
+            <h3 class="post-title">{{ post.title }}</h3>
+          </a>
+          <p class="post-meta">by {{ post.firstName }} {{ post.lastName }} on {{ post.dateCreated | date:'mediumDate' }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="auth-buttons">
+    <button class="auth-button"><a href="http://localhost:4200/login-page">Login</a></button>
+    <button class="auth-button"><a href="http://localhost:4200/register-page">Register Here</a></button>
+  </div>
+
+
